@@ -4,7 +4,7 @@ Wier bauen ein Haus in folgenden Schirtten:
 
 2.) Sauberkeitsschicht
 
-3.) XPS verlegen
+3.) XPS=20 cm verlegen
 
 4.) Bodenplatte herstellen
 
