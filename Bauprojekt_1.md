@@ -8,4 +8,4 @@ Wier bauen ein Haus in folgenden Schirtten:
 
 4.) Bodenplatte herstellen
 
-5.) FT Wände aufstellen und vergiesen
+5.) Ortbetonwände betonieren
